@@ -1,0 +1,13 @@
+button{
+    color: #a37337;
+    font-size: 25px;
+    font-weight: 500;
+    border: solid 1px black !important;
+}
+
+.tomol{
+    color: #a37337;
+    font-size: 25px;
+    font-weight: 500;
+    border: solid 1px yellow;
+}
